@@ -1,4 +1,4 @@
-## Basic Personel Finance ##
+## Basic Personal Finance ##
 
 ### Understanding basic economy and banking system ###
     https://www.youtube.com/watch?v=Oi9cq7tXkmg
@@ -55,4 +55,3 @@
   [Course 1: Stock Investing Like Warren Buffett - Beginners](https://www.youtube.com/watch?v=KfDB9e_cO4k&list=PLECECA66C0CE68B1E)
   [Course 2: Stock Investing Like Warren Buffett - Intermediate](https://www.youtube.com/watch?v=-4mXnFK0ecM&list=PLD3EB06EC4A19BFB8)
   [Course 3: Stock Investing Like Warren Buffett - Advanced](https://www.youtube.com/watch?v=1jHqCKj0PUM&list=PL4F98F82F436543F7)
-
