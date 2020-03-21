@@ -11,3 +11,4 @@ To Do : Classify complexity level
 - The Little Book of Common Sense Investing
 - Common Stocks and Uncommon Profits
 - One up no wall street
+- The Intelligent Investor
