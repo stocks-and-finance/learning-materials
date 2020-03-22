@@ -68,11 +68,19 @@ When you are considering banks, it is important to consider the recent fiasco th
 
 COVID-19 has taught us that anything above liquid funds in risk ratio (even money market funds) can crash. Gold returns are erratic and can sometimes [give zero or even negative returns on capital](https://freefincal.com/do-not-expect-returns-from-your-gold-investments-do-this-instead/). Even in liquid funds, stick to the ones that ones that invest only in govt bonds i.e bonds such as Parag parikh liquid fund and Quantum liquid fund. Liquidity is another reason why we cannot invest in govt bonds directly since you cannot exit them and there is not much liquidity in the secondary market where you can sell these.
 
-Another thing is that, extreme emergencies such as wartime emergency has shown us that 
+Another thing is that, extreme emergencies such as wartime emergency has shown us that stock markets can be closed for short periods. So it is wise to save around 25% of emergency funds outside of the stock markets such as fixed deposits.
 
 ### Taxation
 
+This isn't really a thing to worry about. But having 75% of emergency funds in debt mutual funds have LTCG benefits.
 
-  
+### Conclusion
+
+- Use your own prudence to define how much money you would need for emergency. 
+- Split it across debt mutual funds (75%) and fixed deposits(25%).
+- Invest only in either of the big three banks for FD.
+- Use only overnight funds or liquid funds that invest only in govt bonds.
+
+
 
 
