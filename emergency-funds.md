@@ -17,8 +17,9 @@ Now we have sufficient evidence that we need an emergency fund, the next questio
 
 Monthly expense is just one part, there are other emergencies as well but of course we need not get to the point where only the paranoid survive. There is no straight answer to this question since personal finance is personal, but the general rule is to have atleast 
 
-- Six months of expenses 
-- A decent medical emergency fund (I arrived at about 5 Lakhs for India) 
+- Cash in had for immediate emergencies (I have arrived at about 50K for this)
+- Six months of expenses (This again, varies from person to person)
+- A decent medical emergency fund (I arrived at about 5 Lakhs for India. This is regardless of whether you have a health insurance or not. Not everything comes under health insurance and not all health insurance immediately disburses funds for treatment immediately).
 - Another basket for miscellaneous emergency (This is optional, but just in case if you find any other important need)
 
 The first two is absolutely necessary.
@@ -29,10 +30,14 @@ Now we have the quantum we need to save, next question is where do we store/save
 
 - Liquidity
 - Capital protection/Risk factors
-- Taxation
 - Returns
+- Taxation
 
 For emergency funds, liquidity and capital protection are probably the most important ones.
+
+### Returns
+
+Returns from an emergency fund should be to the level that they atleast keep up with inflation so that there is no erosion of capital. Anything more will require to take us more risk.
 
 ### The Importance of liquidity
 
@@ -45,5 +50,24 @@ So liquidity is perhaps the top most requirement for having an emergency fund.
 
 ### Capital protection/Risk factors
 
-Capital protection is perhaps very important. Now the emergency funds should not degrade in value 
+Capital protection is perhaps very important. Now the emergency funds should not degrade in value the moment we start to invest in it and should be ready for withdrawal, which means returns after some investment horizon i.e after 2 years it will be profitable is ruled out. Let's explore what and all funds we do have,
+
+- Fixed Deposits
+- Debt funds
+  - Overnight mutual funds
+  - Liquid funds
+  - Other funds like money market funds, bonds with duration more than 90 days etc.,
+- Gold
+
+etc.,
+
+When you are considering banks, it is important to consider the recent fiasco that happened (PMC bank, Co op banks, Yes bank) where your capital might be locked down. Two things we need to consider,
+
+- The deposit insurance keeps changing in every budget. Although it is unlikely that they will touch this again, it is under the mercy of the government. 
+- Considering the above fact, stick to the RBI big three list i.e HDFC, ICICI and SBI. These banks have been categorized by RBI as systematically important banks so they will be bailed out in case of a crisis.
+
+COVID-19 has taught us that anything above liquid funds in risk ratio (even money market funds) can crash.
+
+  
+
 
