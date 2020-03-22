@@ -17,9 +17,9 @@ Now we have sufficient evidence that we need an emergency fund, the next questio
 
 Monthly expense is just one part, there are other emergencies as well but of course we need not get to the point where only the paranoid survive. There is no straight answer to this question since personal finance is personal, but the general rule is to have atleast 
 
-- Cash in had for immediate emergencies (I have arrived at about 50K for this)
+- Cash in had for immediate emergencies (50K should be sufficient enough to push for house expenses i.e the bare minimal for around 4-5 months)
 - Six months of expenses (This again, varies from person to person)
-- A decent medical emergency fund (I arrived at about 5 Lakhs for India. This is regardless of whether you have a health insurance or not. Not everything comes under health insurance and not all health insurance immediately disburses funds for treatment immediately).
+- A decent medical emergency fund (5 Lakhs should be sufficient for India, considering average hospitalization charges. This is regardless of whether you have a health insurance or not. Not everything comes under health insurance and not all health insurance immediately disburses funds for treatment immediately. Insurance exist for planned/bigger expense such as Operations and such).
 - Another basket for miscellaneous emergency (This is optional, but just in case if you find any other important need)
 
 The first two is absolutely necessary.
