@@ -66,7 +66,12 @@ When you are considering banks, it is important to consider the recent fiasco th
 - The deposit insurance keeps changing in every budget. Although it is unlikely that they will touch this again, it is under the mercy of the government. 
 - Considering the above fact, stick to the RBI big three list i.e HDFC, ICICI and SBI. These banks have been categorized by RBI as systematically important banks so they will be bailed out in case of a crisis.
 
-COVID-19 has taught us that anything above liquid funds in risk ratio (even money market funds) can crash.
+COVID-19 has taught us that anything above liquid funds in risk ratio (even money market funds) can crash. Gold returns are erratic and can sometimes [give zero or even negative returns on capital](https://freefincal.com/do-not-expect-returns-from-your-gold-investments-do-this-instead/). Even in liquid funds, stick to the ones that ones that invest only in govt bonds i.e bonds such as Parag parikh liquid fund and Quantum liquid fund. Liquidity is another reason why we cannot invest in govt bonds directly since you cannot exit them and there is not much liquidity in the secondary market where you can sell these.
+
+Another thing is that, extreme emergencies such as wartime emergency has shown us that 
+
+### Taxation
+
 
   
 
