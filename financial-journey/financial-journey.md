@@ -11,3 +11,7 @@ Level - 2
 
 [Get rid of all debts](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/debts.md)
 
+
+Level - 3
+----------
+[Buy proper insurance](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/insurance.md)
