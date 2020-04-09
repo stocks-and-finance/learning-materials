@@ -9,6 +9,7 @@
     https://www.youtube.com/watch?v=Xn7KWR9EOGQ
     https://www.youtube.com/watch?v=mII9NZ8MMVM&t=9s
     https://www.youtube.com/playlist?list=PLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc
+   [The Plain Bagel Channel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
     
 ### Understanding wealth creation ###
 - The Richest Man in Babylon 
