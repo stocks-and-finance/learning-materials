@@ -15,3 +15,8 @@ Goal - 2
 Goal - 3
 ----------
 [Buy proper insurance](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/insurance.md)
+
+
+Goal - 4
+--------
+[Increasing income](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/increasing-income.md)
