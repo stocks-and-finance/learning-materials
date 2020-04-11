@@ -1,17 +1,17 @@
-This document talks about levels of financial journey 
+This document talks about different goals in financial journey of a person. These can be targeted individually or combined.
 
-Level - 1
+Goal - 1
 ---------
 
 [Prepare an emergency fund](https://github.com/stocks-and-finance/learning-materials/blob/master/emergency-funds.md)
 
 
-Level - 2
+Goal - 2
 ---------
 
 [Get rid of all debts](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/debts.md)
 
 
-Level - 3
+Goal - 3
 ----------
 [Buy proper insurance](https://github.com/stocks-and-finance/learning-materials/blob/master/financial-journey/insurance.md)
